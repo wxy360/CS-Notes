@@ -134,7 +134,7 @@
 
   一些 Git 的使用和概念。
 
-- [Docker](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Docker.md)
+- [Docker](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Docker.md)
 
   Docker 基本原理。
 
